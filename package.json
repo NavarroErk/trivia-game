@@ -1,5 +1,6 @@
 {
-  "homepage": "https://navarroerk.github.io/trivia-game/",
+  "name": "trivia-game",
+  "homepage": "https://navarroerk.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
