@@ -22,6 +22,7 @@ function Home() {
 
   return (
     <main>
+      HOME
       <h1 id="logo">
         TRIVIA<span id="name">SMASH</span>
       </h1>
